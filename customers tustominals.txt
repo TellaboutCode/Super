@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Kundenbewertungen - Weihnachtsdekorationsservice</title>
+</head>
+
+<body>
+    <header>
+        <h1>Kundenbewertungen</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Startseite</a></li>
+                <li><a href="about.html">Über uns</a></li>
+                <li><a href="services.html">Dienstleistungen</a></li>
+                <li><a href="testimonials.html">Kundenbewertungen</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="testimonials">
+        <h2>Was unsere Kunden sagen</h2>
+        <div class="testimonial">
+            <p>"Erstaunlicher Service! Unsere Weihnachtsdekoration sah umwerfend aus, und das Team war sehr professionell."</p>
+            <p class="client">- John Doe</p>
+        </div>
+        <div class="testimonial">
+            <p>"Vielen Dank, dass Sie unsere Feiertagssaison magisch gemacht haben. Sehr zu empfehlen!"</p>
+            <p class="client">- Jane Smith</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Weihnachtsdekorationsservice</p>
+    </footer>
+</body>
+
+</html>

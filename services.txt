@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Dienstleistungen - Weihnachtsdekorationsservice</title>
+</head>
+
+<body>
+    <header>
+        <h1>Unsere Dienstleistungen</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Startseite</a></li>
+                <li><a href="about.html">Über uns</a></li>
+                <li><a href="services.html">Dienstleistungen</a></li>
+                <li><a href="testimonials.html">Kundenbewertungen</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="services">
+        <h2>Was wir anbieten</h2>
+        <ul>
+            <li>Professionelle Weihnachtsbauminstallation</li>
+            <li>Aufbau von Außendekorationen</li>
+            <li>Innerbetriebliche Feiertagsdekoration</li>
+            <li>Individuelle Beleuchtungslösungen</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Weihnachtsdekorationsservice</p>
+    </footer>
+</body>
+
+</html>
